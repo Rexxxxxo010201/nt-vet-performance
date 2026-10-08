@@ -116,7 +116,4 @@ missing one, or an extra one that didn't come from the sync script).
   "So what" action cards.
 - `scripts/sync_app_data.py`: the only sanctioned way to populate
   `app/data/` (see "What is in app/data" above).
-
-Chart visual review is manual, in the browser - see CLAUDE.md for the
-working agreement. There is no screenshot or pixel-measurement tooling
-in this repo; the test suite is data-integrity only.
+  
