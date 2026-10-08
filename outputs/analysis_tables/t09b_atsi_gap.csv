@@ -1,0 +1,10 @@
+Dimension,Group,Gap_pp_Y_minus_N,CI_Lower,CI_Upper,N_Comparisons_in_Table,Gap_exact,Lower_exact,Upper_exact
+Overall,Overall,-2.8,-5.6,0.1,9,-2.8089,-5.6094,0.0744
+Remoteness,Regional,-0.3,-6.2,5.8,9,-0.3143,-6.2157,5.822
+Remoteness,Remote,-4.4,-8.5,-0.4,9,-4.4281,-8.5224,-0.4112
+Remoteness,Urban,-2.6,-8.2,3.2,9,-2.5644,-8.2105,3.2185
+Funding_Source,11J,3.5,-2.4,9.5,9,3.4746,-2.4498,9.4548
+Funding_Source,11K,-3.4,-8.9,2.5,9,-3.3832,-8.9342,2.5375
+Funding_Source,11N,-5.9,-13.9,2.6,9,-5.8812,-13.9154,2.5651
+Funding_Source,11V,-1.8,-12.4,8.0,9,-1.8353,-12.3589,8.0185
+Funding_Source,FFT,-5.6,-10.7,-0.2,9,-5.6344,-10.681,-0.1888

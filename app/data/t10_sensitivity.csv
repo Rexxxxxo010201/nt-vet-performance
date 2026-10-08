@@ -1,0 +1,26 @@
+Definition,Scope,Rate_%,CI_Lower,CI_Upper,Rate_exact
+(a) Standard unit-level,Overall,60.4,59.0,61.8,60.3718
+(a) Standard unit-level,11J,60.9,57.8,63.7,60.8735
+(a) Standard unit-level,11K,59.0,56.3,61.7,59.038
+(a) Standard unit-level,11N,57.2,53.3,61.2,57.2426
+(a) Standard unit-level,11V,62.3,58.0,67.1,62.2642
+(a) Standard unit-level,FFT,62.0,59.4,64.5,61.9718
+(b) Outcome 20 only,Overall,53.3,,,53.2869
+(b) Outcome 20 only,11J,54.6,,,54.6414
+(b) Outcome 20 only,11K,51.7,,,51.6926
+(b) Outcome 20 only,11N,49.7,,,49.692
+(b) Outcome 20 only,11V,54.9,,,54.9296
+(b) Outcome 20 only,FFT,54.7,,,54.722
+(c) Continuing counted as non-completion,Overall,53.2,,,53.2315
+(c) Continuing counted as non-completion,11J,54.0,,,53.9952
+(c) Continuing counted as non-completion,11K,51.8,,,51.7687
+(c) Continuing counted as non-completion,11N,50.8,,,50.774
+(c) Continuing counted as non-completion,11V,54.5,,,54.5455
+(c) Continuing counted as non-completion,FFT,54.6,,,54.6405
+(d) Excluding Funding_Source_Recovered rows,Overall,60.4,,,60.3778
+(d) Excluding Funding_Source_Recovered rows,11J,60.9,,,60.8933
+(d) Excluding Funding_Source_Recovered rows,11K,59.0,,,59.0023
+(d) Excluding Funding_Source_Recovered rows,11N,57.5,,,57.4692
+(d) Excluding Funding_Source_Recovered rows,11V,62.1,,,62.0853
+(d) Excluding Funding_Source_Recovered rows,FFT,62.0,,,61.9687
+"REFERENCE: strict student-program (all eligible units Achieved) - NOT qualification completion, only units present in this data",Overall,31.4,,,31.4422

@@ -1,0 +1,40 @@
+Provider_ID,Funding_Source,Status,Delivered_AHC,Target_AHC
+P001,11J,Matched,6214,41000.0
+P001,11K,Delivery without contract,6742,
+P001,11N,Delivery without contract,3530,
+P001,11V,Delivery without contract,2325,
+P001,FFT,Matched,4246,28280.0
+P002,11J,Matched,5283,10400.0
+P002,11K,Matched,5661,26130.0
+P002,11N,Delivery without contract,3075,
+P002,11V,Matched,2915,25890.0
+P002,FFT,Matched,3273,30510.0
+P003,11J,Delivery without contract,5020,
+P003,11K,Delivery without contract,6773,
+P003,11N,Matched,3775,26870.0
+P003,11V,Delivery without contract,1540,
+P003,FFT,Matched,3517,24870.0
+P004,11J,Delivery without contract,6218,
+P004,11K,Delivery without contract,7971,
+P004,11N,Matched,2690,40280.0
+P004,11V,Matched,2360,46870.0
+P004,FFT,Matched,3010,19180.0
+P005,11J,Delivery without contract,4016,
+P005,11K,Delivery without contract,7973,
+P005,11N,Delivery without contract,3665,
+P005,11V,Matched,2620,13710.0
+P005,FFT,Matched,3909,48070.0
+P006,11J,Matched,6057,28610.0
+P006,11K,Matched,4933,27330.0
+P006,11N,Delivery without contract,3300,
+P006,11V,Matched,1710,32490.0
+P006,FFT,Matched,4268,46970.0
+P007,11J,Delivery without contract,6458,
+P007,11K,Delivery without contract,7266,
+P007,11N,Matched,2520,36170.0
+P007,11V,Matched,3075,
+P007,FFT,Matched,3208,25230.0
+P008,11J,Contract without delivery,0,40690.0
+P008,11N,Contract without delivery,0,17800.0
+P008,11V,Contract without delivery,0,43440.0
+P008,FFT,Delivery without contract,21678,

@@ -1,0 +1,14 @@
+Level,Key,Delivered_AHC,Target_AHC_Total,Delivered_pct_of_Target
+Funding_Source,11J,17554,80010,21.9
+Funding_Source,11K,10594,53460,19.8
+Funding_Source,FFT,25431,223110,11.4
+Funding_Source,11N,8985,103320,8.7
+Funding_Source,11V,9605,118960,8.1
+Overall,All matched pairs,72169,578860,12.5
+Provider_ID,P002,17132,92930,18.4
+Provider_ID,P001,10460,69280,15.1
+Provider_ID,P003,7292,51740,14.1
+Provider_ID,P006,16968,135400,12.5
+Provider_ID,P005,6529,61780,10.6
+Provider_ID,P007,5728,61400,9.3
+Provider_ID,P004,8060,106330,7.6

@@ -1,0 +1,10 @@
+Metric,Value,CI_Lower,CI_Upper,Value_exact
+Total funded AHC,172794,,,172794.0
+Enrolment rows,5500,,,5500.0
+Distinct students,1203,,,1203.0
+Distinct providers,8,,,8.0
+Headline completion rate (%),60.4,59.0,61.8,60.3718
+Share of enrolled students with ATSI = Y (%),36.3,,,36.3259
+Share of funded AHC delivered in Urban (%),25.9,,,25.9245
+Share of funded AHC delivered in Regional (%),26.7,,,26.6919
+Share of funded AHC delivered in Remote (%),47.4,,,47.3836

@@ -1,0 +1,5 @@
+Qualification_Level,AHC_Funded,Share_of_Total_%,Units,Distinct_Students,Completion_Rate_%,CI_Lower,CI_Upper,Eligible_Units,Program_IDs
+Certificate I,10826,6.3,498,170,61.7,57.2,65.9,433,FSK10213
+Certificate II,37083,21.5,1600,483,59.4,56.8,62.1,1368,"AHC20116, BSB20120, RII20715"
+Certificate III,99092,57.3,2854,766,60.9,59.0,62.7,2450,"BSB30120, CER30115, CHC33015, HLT33015, SIS30321"
+Certificate IV,25793,14.9,548,191,59.2,55.0,63.3,483,CER40115

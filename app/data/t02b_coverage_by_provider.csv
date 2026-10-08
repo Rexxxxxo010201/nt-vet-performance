@@ -1,0 +1,9 @@
+Provider_ID,Matched comparable pair,"Matched pair, no target set",Delivery without a contract,Contract without delivery (0 AHC),Total_AHC
+P001,10460,0,12597,0,23057
+P002,17132,0,3075,0,20207
+P003,7292,0,13333,0,20625
+P004,8060,0,14189,0,22249
+P005,6529,0,15654,0,22183
+P006,16968,0,3300,0,20268
+P007,5728,3075,13724,0,22527
+P008,0,0,21678,0,21678

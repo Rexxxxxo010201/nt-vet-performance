@@ -1,0 +1,15 @@
+# App runtime (app/Home.py, app/pages/, app/lib/) - this is all a deployed
+# copy of app/ actually needs.
+streamlit==1.65.0
+pandas==3.0.6
+numpy==2.5.3
+plotly==7.1.0
+
+# Full pipeline only (scripts/clean_data.py, scripts/analysis_tables.py,
+# scripts/sync_app_data.py and the test suite) - not required to run the
+# deployed app on its own, but pinned here so the whole repo installs from
+# one file.
+statsmodels==0.15.0
+scipy==1.18.1
+openpyxl==3.1.5
+pytest==9.1.1

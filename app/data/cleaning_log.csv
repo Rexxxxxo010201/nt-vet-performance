@@ -1,0 +1,17 @@
+rule_id,description,table,rows_before,rows_after,rows_changed,change_type
+A3,"Drop Organisation duplicates, keep first-listed name per Provider_ID",Organisation,10,8,2,dropped
+A1,"Drop exact duplicate Enrolment rows, keep first",Enrolment,5505,5500,5,dropped
+A2,Fill missing Provider_Name from Organisation table via Provider_ID,Enrolment,5500,5500,328,modified
+A4,Convert Nominal_Hours to numeric; rebuild blanks/unparseable values from Unit_ID lookup,Enrolment,5500,5500,269,modified
+A5,Standardise Gender case variants to M/F (X unchanged),Student,1974,1974,25,modified
+A6,Standardise ATSI 'y'/'yes'/'Yes'/'YES' to Y,Student,1974,1974,20,modified
+A7,"Null Enrol_Start_Date for 2030 rows, add Start_Date_Invalid flag",Enrolment,5500,5500,8,modified
+A8,Rebuild zero Target_AHC_Total from parts where real targets exist; null true zero-target rows,Contract,23,23,3,modified
+B2,Recover UNK Funding_Source from Student_ID+Provider_ID+Program_ID where unambiguous; else 'Unknown',Enrolment,5500,5500,30,modified
+A9,Add Has_Enrolment flag; keep students with no enrolment,Student,1974,1974,1974,derived
+B3,Add Carry_Over_Flag where Delivery_Year is later than a valid Enrol_Start_Date's year,Enrolment,5500,5500,477,derived
+C1,Add Outcome_Group and In_Completion_Rate from Outcome code,Enrolment,5500,5500,5500,derived
+B4,Add Age_at_Enrolment and At_School_Suspect; keep At_School_Flag unchanged,Enrolment,5500,5500,5500,derived
+B5,"Documentation caveat only: Gender = X prevalence noted, no further change beyond A5",Student,1974,1974,0,derived
+Validation,"End-to-end checks: row counts, referential integrity, code domains, AHC_Funded reconciliation",All,5500,5500,0,derived
+B1,Build contract_delivery_recon: one row per Provider_ID+Funding_Source found in either sheet,contract_delivery_recon,0,39,39,derived

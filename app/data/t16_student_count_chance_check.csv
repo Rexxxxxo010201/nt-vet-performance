@@ -1,0 +1,8 @@
+Metric,Value
+Observed minimum students (any program),169
+Observed maximum students (any program),204
+Observed max-to-min ratio,1.21
+Observed spread (max minus min),35
+Null mean spread under random reassignment,39.5
+Null 95% range of spread,22 to 61
+Two-sided p-value for observed spread,0.7314

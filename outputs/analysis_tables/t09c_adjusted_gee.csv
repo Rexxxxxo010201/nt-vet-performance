@@ -1,0 +1,8 @@
+Metric,Value,Value_exact
+ATSI odds ratio (Y vs N),0.88,0.8795
+OR 95% CI lower,0.779,0.7787
+OR 95% CI upper,0.993,0.9934
+OR p-value,0.0388,0.0388
+"Model-predicted completion rate, ATSI = Y (%)",58.4,58.4189
+"Model-predicted completion rate, ATSI = N (%)",61.5,61.4841
+"Model-predicted gap, Y minus N (pp)",-3.1,-3.0652

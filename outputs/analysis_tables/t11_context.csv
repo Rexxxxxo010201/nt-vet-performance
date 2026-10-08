@@ -1,0 +1,16 @@
+Delivery_Year,Funding_Source,Units,AHC,Valid_Start_Count,Note
+2023,11J,261,8710,260,2023 has no carry-in from 2022
+2023,11K,272,8920,272,2023 has no carry-in from 2022
+2023,11N,129,4505,129,2023 has no carry-in from 2022
+2023,11V,108,3365,108,2023 has no carry-in from 2022
+2023,FFT,340,11339,340,2023 has no carry-in from 2022
+2024,11J,580,19218,578,
+2024,11K,658,22892,657,
+2024,11N,300,10200,300,
+2024,11V,221,7445,219,
+2024,FFT,679,22554,678,
+2025,11J,425,11338,425,Carry_Over_Flag rows only appear in 2025
+2025,11K,571,15507,570,Carry_Over_Flag rows only appear in 2025
+2025,11N,238,7850,238,Carry_Over_Flag rows only appear in 2025
+2025,11V,165,5735,165,Carry_Over_Flag rows only appear in 2025
+2025,FFT,553,13216,553,Carry_Over_Flag rows only appear in 2025

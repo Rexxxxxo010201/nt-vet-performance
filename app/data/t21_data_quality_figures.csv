@@ -1,0 +1,13 @@
+Metric,Value
+Student table rows,1974.0
+Gender = X students,657.0
+"Rows with Funded_Flag = 85%_only and outcome 51, 52 or 70",960.0
+P008 Fee-Free TAFE enrolment rows,712.0
+11N and 11V rows (VET in Schools streams),1161.0
+11N and 11V rows not flagged At_School_Flag = Y,1070.0
+11N share of rows in Urban (%),29.2354
+11N share of rows in Regional (%),26.6867
+11N share of rows in Remote (%),44.078
+11V share of rows in Urban (%),23.4818
+11V share of rows in Regional (%),21.4575
+11V share of rows in Remote (%),55.0607

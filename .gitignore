@@ -1,0 +1,18 @@
+# Contains student-level USIs, dates of birth, and ATSI status - never commit
+# Anchored to repo root only, so app/data/ (aggregate-only CSVs for the app) is not swept up
+/data/
+/data/raw/
+/data/clean/
+
+# The raw workbook, wherever it might sit
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# macOS
+.DS_Store

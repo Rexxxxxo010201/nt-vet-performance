@@ -1,0 +1,43 @@
+Industry,Outcome_Group,AHC_Funded,Share_within_Industry_%,Not_Completed_Share_%,Share_within_Industry_exact,Not_Completed_Share_exact
+Community Services,Achieved,42971,52.7,35.9,52.7271,35.8933
+Community Services,Not achieved,17545,21.5,35.9,21.5284,35.8933
+Community Services,Withdrawn,11707,14.4,35.9,14.3649,35.8933
+Community Services,Continuing,8516,10.4,35.9,10.4495,35.8933
+Community Services,Learner support,758,0.9,35.9,0.9301,35.8933
+Community Services,Not funded / not started,0,0.0,35.9,0.0,35.8933
+Business,Achieved,13369,52.8,34.1,52.7606,34.0976
+Business,Not achieved,5218,20.6,34.1,20.5928,34.0976
+Business,Withdrawn,3422,13.5,34.1,13.5049,34.0976
+Business,Continuing,3046,12.0,34.1,12.021,34.0976
+Business,Learner support,284,1.1,34.1,1.1208,34.0976
+Business,Not funded / not started,0,0.0,34.1,0.0,34.0976
+Sport & Recreation,Achieved,8231,52.5,36.8,52.4602,36.8451
+Sport & Recreation,Not achieved,3344,21.3,36.8,21.3129,36.8451
+Sport & Recreation,Withdrawn,2437,15.5,36.8,15.5322,36.8451
+Sport & Recreation,Continuing,1639,10.4,36.8,10.4461,36.8451
+Sport & Recreation,Learner support,39,0.2,36.8,0.2486,36.8451
+Sport & Recreation,Not funded / not started,0,0.0,36.8,0.0,36.8451
+Health,Achieved,7291,51.6,35.2,51.5593,35.1531
+Health,Not achieved,2790,19.7,35.2,19.7299,35.1531
+Health,Withdrawn,2181,15.4,35.2,15.4232,35.1531
+Health,Continuing,1759,12.4,35.2,12.439,35.1531
+Health,Learner support,120,0.8,35.2,0.8486,35.1531
+Health,Not funded / not started,0,0.0,35.2,0.0,35.1531
+Resources,Achieved,7260,51.5,36.7,51.4748,36.6846
+Resources,Not achieved,3192,22.6,36.7,22.6319,36.6846
+Resources,Withdrawn,1982,14.1,36.7,14.0528,36.6846
+Resources,Continuing,1456,10.3,36.7,10.3233,36.6846
+Resources,Learner support,214,1.5,36.7,1.5173,36.6846
+Resources,Not funded / not started,0,0.0,36.7,0.0,36.6846
+Primary Industry,Achieved,5456,48.7,39.5,48.7273,39.5017
+Primary Industry,Not achieved,2376,21.2,39.5,21.22,39.5017
+Primary Industry,Withdrawn,2047,18.3,39.5,18.2817,39.5017
+Primary Industry,Continuing,1138,10.2,39.5,10.1634,39.5017
+Primary Industry,Learner support,180,1.6,39.5,1.6076,39.5017
+Primary Industry,Not funded / not started,0,0.0,39.5,0.0,39.5017
+Foundation Skills,Achieved,5871,54.2,35.5,54.2306,35.4702
+Foundation Skills,Not achieved,2298,21.2,35.5,21.2267,35.4702
+Foundation Skills,Withdrawn,1542,14.2,35.5,14.2435,35.4702
+Foundation Skills,Continuing,1050,9.7,35.5,9.6989,35.4702
+Foundation Skills,Learner support,65,0.6,35.5,0.6004,35.4702
+Foundation Skills,Not funded / not started,0,0.0,35.5,0.0,35.4702
